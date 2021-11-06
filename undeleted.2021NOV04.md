@@ -1,4 +1,5 @@
-#Live-Chat von [Webtalk: "Palmer: Politiker. Provokateur. Populist? Über die Grenzen des Sagbaren"](https://youtu.be/SqAqg0ZIrhM)
+#[Webtalk: "Palmer: Politiker. Provokateur. Populist? Über die Grenzen des Sagbaren"](https://youtu.be/SqAqg0ZIrhM)  
+## Live-Chat Protokoll
 
 `Welcome to live chat! Remember to guard your privacy and abide by our community guidelines.`  
   
@@ -20,7 +21,7 @@ In an Ideological Echo Chamber (like anything by Google), "community guidelines"
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
-​"Wehner" ... der Name verpflichet!  
+​"[Wehner](#Wehner)" ... der Name verpflichet!  
   
 **Landeszentrale für politische Bildung Baden-Württemberg**  
 ​Wir begrüßen Euch herzlich zum Web-Talk mit Boris Palmer, Oberbürgermeister Tübingen, Edda Markeli, SWR und Prof.in Heidrun Kämper (Leibniz Institut für Deutsche Sprache, Mannheim)  
@@ -36,11 +37,11 @@ In an Ideological Echo Chamber (like anything by Google), "community guidelines"
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
-​Bei so einigen Soziolekten erweist die Frage: "Hasch du überhaupt 's Abitur, du Allmachtskäpsele?" als relevant  
+​Bei so einigen Soziolekten erweist die Frage: "[Hasch du überhaupt 's Abitur, du Allmachtskäpsele?](#Saudaemliche-Details)" als relevant  
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
-​sich.  
+​[sich](Das-postponierte-Reflexivum).  
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
@@ -62,8 +63,8 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 ​​**Landeszentrale für politische Bildung Baden-Württemberg**  
 ​Bitte achtet auf einen freundlichen und respektvollen Umgang!  
   
-`***You have been placed in timeout by the owner of this video or a moderator.***`   
-`***Edit and try again.***`  
+<a name="timeout">`You have been placed in timeout by the owner of this video or a moderator.`</a>  
+Edit and try again.`  
   
 **Christoph Maier**  
 ​Wenn man Palmer-Stil veranschaulicht, wird man gecancelt.  
@@ -99,7 +100,7 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 ​Bei aller teils berechtigter Kritik ist er, was oft untergeht, OB von Tübingen. Was er für diese Stadt leistet und wie leidenschaftlich er sich für die Menschen hier einsetzt sucht seinesgleichen.  
   
 **Christoph Maier**  
-​Wichtig ist, die nicht stumm zu schalten. Sonst meldet sich ein anderer **Christoph Maier** (Anwalt aus Memmingen) zu Wort. Das muss mal in den Kopf von bevormundenden Frauen.  
+​Wichtig ist, die nicht stumm zu schalten. Sonst meldet sich ein anderer [Christoph Maier](#Christoph-Maier-MdL) ([Anwalt aus Memmingen](#Anwalt)) zu Wort. Das muss mal in den Kopf von bevormundenden Frauen.  
   
 **picnicker74**  
 ​@**Oliver Selleng**, die österreichische Vogel-Strauss-Haltung: "...aber eigentlich mögen wir ihn, deswegen schauen wir angespannt weg."  
@@ -108,13 +109,13 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 ​Immer diese bevormundenden Frauen. Furchtbar.  
   
 **Christoph Maier**  
-​Zwei Frauen mit strengem Blick urteilen von oben herab über den Palmer. Dazu fällt mir wirklich nur noch der **Christoph Maier** im Maximilianeum ein, damit die Bevormundung aufhört.  
+​Zwei Frauen mit strengem Blick urteilen von oben herab über den Palmer. Dazu fällt mir wirklich nur noch der [Christoph Maier](#Christoph-Maier-MdL) im [Maximilianeum](#Maximilianeum) ein, damit die Bevormundung aufhört.  
   
 **Teresa Hütten**  
 ​Meinungsfreiheit endet wenn Diskriminierung anfängt.  
   
 **Christoph Maier**  
-​"Deutsche Frauen, deutsche Treue" etc.  
+​"[Deutsche Frauen, deutsche Treue](#Deutsche-Frauen)" etc.  
   
 **Christoph Maier**  
 ​Die Selbstgerechtigkeit steht der Moderatorin ins Gesicht geschrieben. Das hat politische Konsequenzen.  
@@ -165,7 +166,7 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 ​Wenn mann da noch einen draufsetzt, fühlt sich die Sprachpolizei (z.B. Frau:*:In Markeli) zur Intervention bemüßigt. Dann und erst dann wird's zum Politikum.  
   
 **Christoph Maier**  
-​Es gibt nicht "den" Sachverhalt, Boris. Es gibt immer mehrere Interpretationen. Und da kommt dann mangelnde Ambiguitätstoleranz zum Tragen.  
+​Es gibt nicht "den" Sachverhalt, Boris. [Es gibt immer mehrere Interpretationen](#Calliope-Collapse). Und da kommt dann mangelnde Ambiguitätstoleranz zum Tragen.  
   
 **picnicker74**  
 ​Den Palmer wieder auf den Punkt gebracht: Als OB zu fordern, bestimmte Gruppen wären stärker zur Einhaltung von Regeln verpflichtet, schafft eine Zweiklassengesellschaft. Falscher Fokus vom OB  
@@ -180,7 +181,7 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 ​Kämper argumentiert stark und nachvollziehbar. Palmer hat dem inhaltlich und argumentativ nichts entgegenzusetzen.  
   
 **picnicker74**  
-​@**Christoph Maier** überall und immer profitieren nur die Rechten davon, dass bürgerliche deren Sprache und Positionen übernehmen.  
+​@Christoph Maier überall und immer profitieren nur die Rechten davon, dass bürgerliche deren Sprache und Positionen übernehmen.  
   
 **Sara Ja**  
 ​Frau Markeli macht Moderation, sie gibt wieder, was oft gesagt /gefragt wird. Sie nutzt dies auch, um so Aussagen entkräften zu lassen.  
@@ -234,7 +235,7 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 ​@**L aus T** , politisch inopportun, aber leider sachlich richtig.  
   
 **Tatzelbrumm**  
-​Quinn Norton weiss was über Context Collapse im Internet zu sagen.  
+​[Quinn Norton](#QuinnNorton) weiss was über [Context Collapse](#ContextCollapse) im Internet zu sagen.  
   
 **Teresa Hütten**  
 ​Wie stehen sie aktuelle zu den Grünen als (Ihre) Partei und wenn Sie an den Grünen etwas ändern könnten, was wäre das?  
@@ -249,7 +250,7 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 ​Es geht um die Verantwortung die Herr Palmer nicht für seine Worte übernimmt und stets nur auf die anderen verweist!  
   
 **Hotziki Gaming**  
-​@**Christoph Maier** Kannst du dich mal benehmen? Und wie lächerlich kann man denn bitte gendern?  
+​@Christoph Maier Kannst du dich mal benehmen? Und wie lächerlich kann man denn bitte gendern?  
   
 **Tatzelbrumm**  
 ​WAS ERLAUBE KÄMPER?!? Ein Urteil über Palmer steht meiner Nachbarin zu, ihr nicht.  
@@ -330,7 +331,7 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 ​Den passenden anzug dazu hat er schon 😀  
   
 **Tatzelbrumm**  
-​Mit einem Timeout wird die Grenze von Gegnerschaft zu Feindschaft irreversibel überschritten.  
+​Mit einem [Timeout](#timeout) wird die Grenze von Gegnerschaft zu Feindschaft irreversibel überschritten.  
   
 **Hotziki Gaming**  
 ​Wer bekommt das Meeting nicht beendet?  
@@ -341,3 +342,16 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 `Say something...`  
   
 `0/200`  
+
+##Literaturverzeichnis
+  * <a name="Wehner">[Herbert Wehner - Best of](https://youtu.be/01OgjnWvpI8)</a>
+  * <a name="Saudaemliche-Details">[Saudämliche Details](https://www.spiegel.de/politik/saudaemliche-details-a-b4b5580e-0002-0001-0000-000045144001)</a>
+  * <a name="Soziolekt">[Soziolekt](https://de.wikipedia.org/wiki/Soziolekt)</a>
+  * <a name="Das-postponierte-Reflexivum">[Das postponierte Reflexivum](http://www.zweitgeist.net/2010/01/das-postponierte-reflexivum/)</a>
+  * <a name="Christoph-Maier-MdL">[Christoph Maier, MdL](https://www.bayern.landtag.de/abgeordnete/abgeordnete-von-a-z/profil/christoph-maier/)</a>
+  * <a name="Anwalt">[Christoph Maier, Rechts-Anwalt](https://www.ra-cm.de/christoph-maier-rechtsanwalt)</a>
+  * <a name="Maximilianeum">[Maximilianeum](https://www.bayern.landtag.de/maximilianeum/landtagsgebaeude/)</a>
+  * <a name="Deutsche-Frauen">[Deutsche Frauen, deutsche Treue](https://www.augsburger-allgemeine.de/mindelheim/Unterallgaeu-Deutschlandlied-gesungen-AfD-Politiker-Maier-verteidigt-sich-id54274826.html)</a>
+  * <a name="Calliope-Collapse">[Using calliope-mini to demonstrate Context Collapse](https://bitbucket.org/tatzelbrumm/contextcollapse/src/videos/)</a>
+  * <a name="Quinn-Norton">[Quinn Norton: The New York Times Fired My Doppelgänger](https://www.theatlantic.com/technology/archive/2018/02/the-new-york-times-fired-my-doppelganger/554402/)</a>
+  * <a name="Context-Collapse">[Quinn Norton: Context Collapse, Architecture, and Plows](https://medium.com/message/context-collapse-architecture-and-plows-d23a0d2f7697)</a>
