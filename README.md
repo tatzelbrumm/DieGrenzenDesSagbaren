@@ -17,7 +17,8 @@
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
-In an [Ideological Echo Chamber](https://en.wikipedia.org/wiki/Google%27s_Ideological_Echo_Chamber) (like anything by Google), "community guidelines" translates to [ZERO ambiguity tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance). And therein lies the rub.  
+In an [Ideological Echo Chamber](https://en.wikipedia.org/wiki/Google%27s_Ideological_Echo_Chamber) (like anything by Google), "community guidelines" translates to [ZERO ambiguity tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance).
+And [therein lies the rub](https://en.wiktionary.org/wiki/therein_lies_the_rub).  
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
@@ -37,7 +38,7 @@ In an [Ideological Echo Chamber](https://en.wikipedia.org/wiki/Google%27s_Ideolo
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
-​Bei so einigen [Soziolekten](https://de.wikipedia.org/wiki/Soziolekt) erweist die Frage: "[Hasch du überhaupt 's Abitur, du Allmachtskäpsele?](https://www.spiegel.de/politik/saudaemliche-details-a-b4b5580e-0002-0001-0000-000045144001)" als relevant  
+​Bei so einigen [Soziolekten](https://de.wikipedia.org/wiki/Soziolekt) erweist die Frage: "[Hasch du überhaupt 's Abitur](https://www.spiegel.de/politik/saudaemliche-details-a-b4b5580e-0002-0001-0000-000045144001), du Allmachts[käpsele](http://www.schwaebisches-woerterbuch.de/default.asp?q=K%E4psale)? als relevant  
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
@@ -100,10 +101,11 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
 ​Bei aller teils berechtigter Kritik ist er, was oft untergeht, OB von Tübingen. Was er für diese Stadt leistet und wie leidenschaftlich er sich für die Menschen hier einsetzt sucht seinesgleichen.  
   
 **Christoph Maier**  
-​Wichtig ist, die nicht stumm zu schalten. Sonst meldet sich ein anderer [Christoph Maier](https://www.bayern.landtag.de/abgeordnete/abgeordnete-von-a-z/profil/christoph-maier/) ([Anwalt aus Memmingen](https://www.ra-cm.de/christoph-maier-rechtsanwalt)) zu Wort. Das muss mal in den Kopf von bevormundenden Frauen.  
+​Wichtig ist, die nicht stumm zu schalten. Sonst meldet sich ein anderer [Christoph Maier](https://www.bayern.landtag.de/abgeordnete/abgeordnete-von-a-z/profil/christoph-maier/) ([Anwalt aus Memmingen](https://www.ra-cm.de/christoph-maier-rechtsanwalt)) zu Wort.
+[Das muss mal in den Kopf von bevormundenden Frauen](https://medium.com/message/context-collapse-architecture-and-plows-d23a0d2f7697#418c).  
   
 **picnicker74**  
-​@Oliver Selleng, die österreichische Vogel-Strauss-Haltung: "...aber eigentlich mögen wir ihn, deswegen schauen wir angespannt weg."  
+​@**Oliver Selleng**, die österreichische Vogel-Strauss-Haltung: "...aber eigentlich mögen wir ihn, deswegen schauen wir angespannt weg."  
   
 **Cherry Cola**  
 ​Immer diese bevormundenden Frauen. Furchtbar.  
@@ -151,7 +153,7 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
 ​Es wäre schön wenn sie alle sich auf die Diskussion beschränken würden  
   
 **Christoph Maier**  
-​"Timeout" ist eine ziemlich extreme Kränkung. Das hab politische Konsequenzen (die mir nicht gefallen, don't get me wrong).  
+​["Timeout" ist eine ziemlich extreme Kränkung.](#timeout) Das hab politische Konsequenzen (die mir nicht gefallen, don't get me wrong).  
   
 **Viola Steebpoch**  
 ​political correcness ist ,dass Politiker die Bürger nicht betrügen,über Maskendeals abzocken und gesunde Menschen nicht auszugrenzen.Hier ist momentan nichts mehr korrekt!  
@@ -175,16 +177,16 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
 ​Danke Frau Kämper, Wahnsinn wie Frau Markeli versucht BP in die rechte Ecke zu stellen.  
   
 **Christoph Maier**  
-​Wenn der Palmer der Markeli nicht in aller Deutlichkeit die öffentlich-rechtliche Deutungshoheit abspricht, muss das die AfD übernehmen. Da ist mir der Boris lieber.  
+​Wenn der Palmer der Markeli nicht in aller Deutlichkeit die öffentlich-rechtliche [Deutungshoheit](https://de.wikipedia.org/wiki/Deutungshoheit) abspricht, muss das die AfD übernehmen. Da ist mir der Boris lieber.  
   
 **picnicker74**  
 ​Kämper argumentiert stark und nachvollziehbar. Palmer hat dem inhaltlich und argumentativ nichts entgegenzusetzen.  
   
 **picnicker74**  
-​@Christoph Maier überall und immer profitieren nur die Rechten davon, dass bürgerliche deren Sprache und Positionen übernehmen.  
+​@**Christoph Maier** überall und immer profitieren nur die Rechten davon, dass bürgerliche deren Sprache und Positionen übernehmen.  
   
 **Sara Ja**  
-​Frau Markeli macht Moderation, sie gibt wieder, was oft gesagt /gefragt wird. Sie nutzt dies auch, um so Aussagen entkräften zu lassen.  
+​Frau Markeli macht Moderation, sie gibt wieder, was oft gesagt /gefragt wird. [Sie nutzt dies auch, um so Aussagen entkräften zu lassen](#timeout).  
   
 **Max Zandro**  
 ​Immernoch kann Her Palmer nicht Verantwortung übernheme, das ist echt beschämend  
@@ -193,10 +195,10 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
 ​Palmer kann schlichtweg nicht mit Kritik umgehen - ermuss immer Recht haben  
   
 **Christoph Maier**  
-​Die Markeli triggert mich auf unerträgliche Weise. Wenn der nur die Rechten energisch widersprechen, ist die AfD ein nötiger Kollateralschaden.  
+​[Die Markeli triggert mich auf unerträgliche Weise.](#timeout) Wenn der nur die Rechten energisch widersprechen, ist die AfD ein nötiger Kollateralschaden.  
   
 **Christoph Maier**  
-​Bei Facebook-Diät hätte der öffentlich-rechtliche Rundfunk ja die Deutungshoheit. Das geht gar nicht.  
+​Bei Facebook-Diät hätte der öffentlich-rechtliche Rundfunk ja die [Deutungshoheit](https://de.wikipedia.org/wiki/Deutungshoheit). Das geht gar nicht.  
   
 **picnicker74**  
 ​Palmer erinnert mich an einen Jugendlichen nach einer Schlägerei: Selbst für seine eigenen Entgleisungen sind andere verantwortlich. Er schreibt doch selbst dieses Zeug, was er schreibt.  
@@ -250,7 +252,7 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
 ​Es geht um die Verantwortung die Herr Palmer nicht für seine Worte übernimmt und stets nur auf die anderen verweist!  
   
 **Hotziki Gaming**  
-​@Christoph Maier Kannst du dich mal benehmen? Und wie lächerlich kann man denn bitte gendern?  
+​@**Christoph Maier** Kannst du dich mal benehmen? Und wie lächerlich kann man denn bitte gendern?  
   
 **Tatzelbrumm**  
 ​WAS ERLAUBE KÄMPER?!? Ein Urteil über Palmer steht meiner Nachbarin zu, ihr nicht.  
@@ -343,13 +345,15 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
   
 `0/200`  
 
-##Literaturverzeichnis
-  * <a name="Webtalk>[Webtalk: "Palmer: Politiker. Provokateur. Populist? Über die Grenzen des Sagbaren"](https://youtu.be/SqAqg0ZIrhM)</a>
+## Literaturverzeichnis
+  * <a name="Webtalk">[Webtalk: "Palmer: Politiker. Provokateur. Populist? Über die Grenzen des Sagbaren"](https://youtu.be/SqAqg0ZIrhM)</a>
   * <a name="Ideological-Echo-Chamber">[Ideological Echo Chamber](https://en.wikipedia.org/wiki/Google%27s_Ideological_Echo_Chamber)</a>
+  * <a name="therein-lies-the-rub">[therein lies the rub](https://en.wiktionary.org/wiki/therein_lies_the_rub)</a>
   * <a name="ambiguity-tolerance">[ZERO ambiguity tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance)</a>
   * <a name="Wehner">[Herbert Wehner - Best of](https://youtu.be/01OgjnWvpI8)</a>
-  * <a name="Saudaemliche-Details">[Saudämliche Details](https://www.spiegel.de/politik/saudaemliche-details-a-b4b5580e-0002-0001-0000-000045144001)</a>
   * <a name="Soziolekt">[Soziolekt](https://de.wikipedia.org/wiki/Soziolekt)</a>
+  * <a name="Saudaemliche-Details">[Saudämliche Details](https://www.spiegel.de/politik/saudaemliche-details-a-b4b5580e-0002-0001-0000-000045144001)</a>
+  * <a name="Kaepsele">[Käpsele](http://www.schwaebisches-woerterbuch.de/default.asp?q=K%E4psale)</a>
   * <a name="Das-postponierte-Reflexivum">[Das postponierte Reflexivum](http://www.zweitgeist.net/2010/01/das-postponierte-reflexivum/)</a>
   * <a name="Neger">[Er hat NEGER gesagt](https://youtu.be/Z67IGJz_kCI)</a>
   * <a name="Schwuler-Fussball">[https://www.sondermannverein.org/2014/03/19/die-jahresgabe-ist-da/](https://www.sondermannverein.org/2014/03/19/die-jahresgabe-ist-da/)</a>
@@ -359,5 +363,6 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
   * <a name="Deutsche-Frauen">[Deutsche Frauen, deutsche Treue](https://www.augsburger-allgemeine.de/mindelheim/Unterallgaeu-Deutschlandlied-gesungen-AfD-Politiker-Maier-verteidigt-sich-id54274826.html)</a>
   * <a name="Calliope-Collapse">[Using calliope-mini to demonstrate Context Collapse](https://bitbucket.org/tatzelbrumm/contextcollapse/src/videos/)</a>
   * <a name="Ambiguitatestoleranz">[Ambiguitätstoleranz](https://de.wikipedia.org/wiki/Ambiguit%C3%A4tstoleranz)</a>
+  * <a name="Deutungshoheit">[Deutungshoheit](https://de.wikipedia.org/wiki/Deutungshoheit)</a>
   * <a name="Quinn-Norton">[Quinn Norton: The New York Times Fired My Doppelgänger](https://www.theatlantic.com/technology/archive/2018/02/the-new-york-times-fired-my-doppelganger/554402/)</a>
   * <a name="Context-Collapse">[Quinn Norton: Context Collapse, Architecture, and Plows](https://medium.com/message/context-collapse-architecture-and-plows-d23a0d2f7697)</a>
