@@ -101,7 +101,7 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
 ​Bei aller teils berechtigter Kritik ist er, was oft untergeht, OB von Tübingen. Was er für diese Stadt leistet und wie leidenschaftlich er sich für die Menschen hier einsetzt sucht seinesgleichen.  
   
 **Christoph Maier**  
-​Wichtig ist, die nicht stumm zu schalten. Sonst meldet sich ein anderer [Christoph Maier](https://www.bayern.landtag.de/abgeordnete/abgeordnete-von-a-z/profil/christoph-maier/) ([Anwalt aus Memmingen](https://www.ra-cm.de/christoph-maier-rechtsanwalt)) zu Wort.
+​[Wichtig ist, die nicht stumm zu schalten.](#timeout) Sonst meldet sich ein anderer [Christoph Maier](https://www.bayern.landtag.de/abgeordnete/abgeordnete-von-a-z/profil/christoph-maier/) ([Anwalt aus Memmingen](https://www.ra-cm.de/christoph-maier-rechtsanwalt)) zu Wort.
 [Das muss mal in den Kopf von bevormundenden Frauen](https://medium.com/message/context-collapse-architecture-and-plows-d23a0d2f7697#418c).  
   
 **picnicker74**  
@@ -367,3 +367,4 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
   * <a name="Deutungshoheit">[Deutungshoheit](https://de.wikipedia.org/wiki/Deutungshoheit)</a>
   * <a name="Quinn-Norton">[Quinn Norton: The New York Times Fired My Doppelgänger](https://www.theatlantic.com/technology/archive/2018/02/the-new-york-times-fired-my-doppelganger/554402/)</a>
   * <a name="Context-Collapse">[Quinn Norton: Context Collapse, Architecture, and Plows](https://medium.com/message/context-collapse-architecture-and-plows-d23a0d2f7697)</a>
+  * <a name="Gracchi">[Tiberius Sempronius Gracchus](https://de.wikipedia.org/wiki/Tiberius_Sempronius_Gracchus), [Gaius Sempronius Gracchus](https://de.wikipedia.org/wiki/Gaius_Sempronius_Gracchus)</a>
