@@ -348,8 +348,8 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
 ## Literaturverzeichnis
   * <a name="Webtalk">[Webtalk: "Palmer: Politiker. Provokateur. Populist? Über die Grenzen des Sagbaren"](https://youtu.be/SqAqg0ZIrhM)</a>
   * <a name="Ideological-Echo-Chamber">[Ideological Echo Chamber](https://en.wikipedia.org/wiki/Google%27s_Ideological_Echo_Chamber)</a>
-  * <a name="therein-lies-the-rub">[therein lies the rub](https://en.wiktionary.org/wiki/therein_lies_the_rub)</a>
   * <a name="ambiguity-tolerance">[ZERO ambiguity tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance)</a>
+  * <a name="therein-lies-the-rub">[therein lies the rub](https://en.wiktionary.org/wiki/therein_lies_the_rub)</a>
   * <a name="Wehner">[Herbert Wehner - Best of](https://youtu.be/01OgjnWvpI8)</a>
   * <a name="Soziolekt">[Soziolekt](https://de.wikipedia.org/wiki/Soziolekt)</a>
   * <a name="Saudaemliche-Details">[Saudämliche Details](https://www.spiegel.de/politik/saudaemliche-details-a-b4b5580e-0002-0001-0000-000045144001)</a>
@@ -357,6 +357,7 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
   * <a name="Das-postponierte-Reflexivum">[Das postponierte Reflexivum](http://www.zweitgeist.net/2010/01/das-postponierte-reflexivum/)</a>
   * <a name="Neger">[Er hat NEGER gesagt](https://youtu.be/Z67IGJz_kCI)</a>
   * <a name="Schwuler-Fussball">[https://www.sondermannverein.org/2014/03/19/die-jahresgabe-ist-da/](https://www.sondermannverein.org/2014/03/19/die-jahresgabe-ist-da/)</a>
+  * <a name="Grand-Hotel-Abgrund">[Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfurter-schule-stuart-jeffries)</a>
   * <a name="Christoph-Maier-MdL">[Christoph Maier, MdL](https://www.bayern.landtag.de/abgeordnete/abgeordnete-von-a-z/profil/christoph-maier/)</a>
   * <a name="Anwalt">[Christoph Maier, Rechts-Anwalt](https://www.ra-cm.de/christoph-maier-rechtsanwalt)</a>
   * <a name="Maximilianeum">[Maximilianeum](https://www.bayern.landtag.de/maximilianeum/landtagsgebaeude/)</a>
