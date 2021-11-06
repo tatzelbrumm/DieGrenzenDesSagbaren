@@ -17,7 +17,7 @@
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
-In an Ideological Echo Chamber (like anything by Google), "community guidelines" translates to ZERO ambiguity tolerance. And therein lies the rub.  
+In an [Ideological Echo Chamber](https://en.wikipedia.org/wiki/Google%27s_Ideological_Echo_Chamber) (like anything by Google), "community guidelines" translates to [ZERO ambiguity tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance). And therein lies the rub.  
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
@@ -49,7 +49,7 @@ In an Ideological Echo Chamber (like anything by Google), "community guidelines"
   
 **Tatzelbrumm**  
 ​`[message deleted]`  
-​Er hat NEGER gesagt.  
+​[Er hat NEGER gesagt](https://youtu.be/Z67IGJz_kCI).  
   
 **Tatzelbrumm**  
 `[message deleted]`  
@@ -58,12 +58,12 @@ In an Ideological Echo Chamber (like anything by Google), "community guidelines"
   
 **Tatzelbrumm**  
 `[message deleted]`  
-Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.  
+Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfurter-schule-stuart-jeffries) in Bebenhausen lebt's ganz gut ... ​[sich](http://www.zweitgeist.net/2010/01/das-postponierte-reflexivum/).  
   
 ​​**Landeszentrale für politische Bildung Baden-Württemberg**  
 ​Bitte achtet auf einen freundlichen und respektvollen Umgang!  
   
-<a name="timeout">`You have been placed in timeout by the owner of this video or a moderator.`</a>  
+<a name="timeout">[`You have been placed in timeout by the owner of this video or a moderator.`](https://youtu.be/jSiCjzEgx1k?t=23)</a>  
 `Edit and try again.`  
   
 **Christoph Maier**  
@@ -166,7 +166,7 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 ​Wenn mann da noch einen draufsetzt, fühlt sich die Sprachpolizei (z.B. Frau:*:In Markeli) zur Intervention bemüßigt. Dann und erst dann wird's zum Politikum.  
   
 **Christoph Maier**  
-​Es gibt nicht "den" Sachverhalt, Boris. [Es gibt immer mehrere Interpretationen](https://bitbucket.org/tatzelbrumm/contextcollapse/src/videos/). Und da kommt dann mangelnde Ambiguitätstoleranz zum Tragen.  
+​Es gibt nicht "den" Sachverhalt, Boris. [Es gibt immer mehrere Interpretationen](https://bitbucket.org/tatzelbrumm/contextcollapse/src/videos/). Und da kommt dann mangelnde [Ambiguitätstoleranz](https://de.wikipedia.org/wiki/Ambiguit%C3%A4tstoleranz) zum Tragen.  
   
 **picnicker74**  
 ​Den Palmer wieder auf den Punkt gebracht: Als OB zu fordern, bestimmte Gruppen wären stärker zur Einhaltung von Regeln verpflichtet, schafft eine Zweiklassengesellschaft. Falscher Fokus vom OB  
@@ -262,7 +262,7 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 ​Tja man könnte meinen das der Begriff des Tribun passen könnte... Denn es ist ein alter Begriff und Auch Sie Herr Palmönnen sich vermutlich nicht in die Gefühle der "anderen" hineinfühlen  
   
 **Tatzelbrumm**  
-​Als Gracchus ist der Boris aber viel zu wirtschaftsfreundlich.  
+​Als [Gracchus](https://de.wikipedia.org/wiki/Tiberius_Sempronius_Gracchus) ist der Boris aber viel zu wirtschaftsfreundlich.  
   
 **L aus T**  
 ​Sein Kommentar sei sarkastisch und eine ironische Überspitzung. Die Sprache sei auch auf Facebook nicht unüblich. Außerdem habe das Wort „ficken“ nichts mit Sex zu tun.  
@@ -344,15 +344,20 @@ Im Grand Hotel Abgrund in Bebenhausen lebt's ganz gut ... sich.
 `0/200`  
 
 ##Literaturverzeichnis
+  * <a name="Webtalk>[Webtalk: "Palmer: Politiker. Provokateur. Populist? Über die Grenzen des Sagbaren"](https://youtu.be/SqAqg0ZIrhM)</a>
+  * <a name="Ideological-Echo-Chamber">[Ideological Echo Chamber](https://en.wikipedia.org/wiki/Google%27s_Ideological_Echo_Chamber)</a>
+  * <a name="ambiguity-tolerance">[ZERO ambiguity tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance)</a>
   * <a name="Wehner">[Herbert Wehner - Best of](https://youtu.be/01OgjnWvpI8)</a>
   * <a name="Saudaemliche-Details">[Saudämliche Details](https://www.spiegel.de/politik/saudaemliche-details-a-b4b5580e-0002-0001-0000-000045144001)</a>
   * <a name="Soziolekt">[Soziolekt](https://de.wikipedia.org/wiki/Soziolekt)</a>
   * <a name="Das-postponierte-Reflexivum">[Das postponierte Reflexivum](http://www.zweitgeist.net/2010/01/das-postponierte-reflexivum/)</a>
+  * <a name="Neger">[Er hat NEGER gesagt](https://youtu.be/Z67IGJz_kCI)</a>
   * <a name="Schwuler-Fussball">[https://www.sondermannverein.org/2014/03/19/die-jahresgabe-ist-da/](https://www.sondermannverein.org/2014/03/19/die-jahresgabe-ist-da/)</a>
   * <a name="Christoph-Maier-MdL">[Christoph Maier, MdL](https://www.bayern.landtag.de/abgeordnete/abgeordnete-von-a-z/profil/christoph-maier/)</a>
   * <a name="Anwalt">[Christoph Maier, Rechts-Anwalt](https://www.ra-cm.de/christoph-maier-rechtsanwalt)</a>
   * <a name="Maximilianeum">[Maximilianeum](https://www.bayern.landtag.de/maximilianeum/landtagsgebaeude/)</a>
   * <a name="Deutsche-Frauen">[Deutsche Frauen, deutsche Treue](https://www.augsburger-allgemeine.de/mindelheim/Unterallgaeu-Deutschlandlied-gesungen-AfD-Politiker-Maier-verteidigt-sich-id54274826.html)</a>
   * <a name="Calliope-Collapse">[Using calliope-mini to demonstrate Context Collapse](https://bitbucket.org/tatzelbrumm/contextcollapse/src/videos/)</a>
+  * <a name="Ambiguitatestoleranz">[Ambiguitätstoleranz](https://de.wikipedia.org/wiki/Ambiguit%C3%A4tstoleranz)</a>
   * <a name="Quinn-Norton">[Quinn Norton: The New York Times Fired My Doppelgänger](https://www.theatlantic.com/technology/archive/2018/02/the-new-york-times-fired-my-doppelganger/554402/)</a>
   * <a name="Context-Collapse">[Quinn Norton: Context Collapse, Architecture, and Plows](https://medium.com/message/context-collapse-architecture-and-plows-d23a0d2f7697)</a>
