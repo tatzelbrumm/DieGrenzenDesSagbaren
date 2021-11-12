@@ -356,7 +356,7 @@ Im [Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfu
   * <a name="Kaepsele">[Käpsele](http://www.schwaebisches-woerterbuch.de/default.asp?q=K%E4psale)</a>
   * <a name="Das-postponierte-Reflexivum">[Das postponierte Reflexivum](http://www.zweitgeist.net/2010/01/das-postponierte-reflexivum/)</a>
   * <a name="Neger">[Er hat NEGER gesagt](https://youtu.be/Z67IGJz_kCI)</a>
-  * <a name="gebueldet">[Beispiel für gebüldeten Soziolekt](https://www.facebook.com/ob.boris.palmer/posts/1115759598463571?comment_id=1115864995119698)</a>
+  * <a name="gebueldet">[Beispiel für gebüldeten Soziolekt](https://www.facebook.com/ob.boris.palmer/posts/1115759598463571?comment_id=1115864995119698) ([Volkstümliche Paraphrase](https://www.facebook.com/ob.boris.palmer/posts/1115759598463571?comment_id=1115861961786668))</a>
   * <a name="Schwuler-Fussball">[https://www.sondermannverein.org/2014/03/19/die-jahresgabe-ist-da/](https://www.sondermannverein.org/2014/03/19/die-jahresgabe-ist-da/)</a>
   * <a name="Grand-Hotel-Abgrund">[Grand Hotel Abgrund](https://www.zeit.de/2019/48/grand-hotel-abgrund-frankfurter-schule-stuart-jeffries)</a>
   * <a name="Christoph-Maier-MdL">[Christoph Maier, MdL](https://www.bayern.landtag.de/abgeordnete/abgeordnete-von-a-z/profil/christoph-maier/)</a>
